@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Enrique. Backend developer.
+## 👋 Hi... 
+- I’m Enrique. Backend developer.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on open-sources projects
 
