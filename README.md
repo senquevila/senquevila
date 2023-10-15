@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on open-sources projects
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=senquevila&show_icons=true&count_private=true&layout=compact&hide=html&theme=yeblu"></a>
-
 ## How to reach me?
 <div>
   <a target="_blank" href="https://www.linkedin.com/in/senquevila/">
@@ -37,3 +35,6 @@
 ## Some blogs that I write
 - [Random notes for teaching in my courses](https://iscodigo.wordpress.com/)
 - [PHP with OOP](https://objetosweb.wordpress.com/)
+
+## Statistics
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senquevila&" alt="senquevila" /></p>
