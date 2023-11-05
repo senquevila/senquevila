@@ -33,8 +33,7 @@
 </div>
 
 ## Some blogs that I write
-- [Random notes for teaching in my courses](https://iscodigo.wordpress.com/)
-- [PHP with OOP](https://objetosweb.wordpress.com/)
+- [Random notes for teaching in my courses](https://iscodigo.com/blog/)
 
 ## Statistics
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senquevila&" alt="senquevila" /></p>
