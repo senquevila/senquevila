@@ -33,6 +33,3 @@
 
 ## Some blogs that I write
 - [Random notes for teaching in my courses](https://iscodigo.com/blog/)
-
-## Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=senquevila&show_icons=true)
