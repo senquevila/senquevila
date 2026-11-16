@@ -1,7 +1,7 @@
 ## 👋 Hi... 
 - I’m Enrique. Backend developer.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on open-sources projects
+- 🌱 I’m currently learning JavaScript, Rust and Go.
+- 💞️ I’m looking to collaborate on open-source projects
 
 ## How to reach me?
 <div>
@@ -20,7 +20,7 @@
 <div>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
 ## Languages
@@ -32,4 +32,4 @@
 </div>
 
 ## Some blogs that I write
-- [Random notes for teaching in my courses](https://iscodigo.com/blog/)
+- [Random notes for teaching in my courses](https://iscodigo.com/)
